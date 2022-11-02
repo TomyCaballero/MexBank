@@ -1,11 +1,4 @@
-/*
-R4. Herencia de clases y paso de parámetros*/
-/*Datos de identificación*/
-/* Nombre completo: Pedro Pablo Torres Pérez */
-/* Matrícula: 21011187 */
-/* Fecha de elaboración: 03/03/2022 */
-/* Nombre del Módulo: Programación orientada a objetos v1 */
-/* Nombre del Asesor: Claudia Patricia Rojano Hernández  */ 
+
 
 package mexbank;
 
